@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Configurations in Azure</h1>
-This lab I will now be configuring Active Directory and allowing a client to join the domain as well as creating user accounts. <br />
+In this lab I will now be configuring Active Directory and allowing a client to join the domain as well as creating user accounts. <br />
 
 <h2>Environments and Technologies Used</h2>
 
